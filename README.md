@@ -1,16 +1,29 @@
-### Hi there 👋
+👋 Hi, I'm Jorge Galán
 
-<!--
-**jorgegalanr/jorgegalanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year B.Sc. in Computer Science & AI (UAX) · +10 yrs in Finance🔎 Data Science & ML focused on Time Series, Computer Vision, and NLP🚀 Open to Data/ML internships from Oct 2025 (Madrid/Remote)
 
-Here are some ideas to get you started:
+🛠 Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · Pandas · NumPy · scikit-learn · TensorFlow/Keras · XGBoost · CatBoost · Prophet · OpenCV · FAISS · SQL · MongoDB · Flask · Docker · Git
+
+🔥 Featured Projects
+
+Energy Forecasting (XGBoost/CatBoost) — MAE/RMSE, seasonal analysis, deployment-ready.
+
+Wine Clustering (PCA · DBSCAN · K-Means) — unsupervised segmentation, PCA 2D plots.
+
+CNN Humans vs Horses (VGG16 fine-tuning) — confusion matrix, threshold tuning.
+
+Medical Image Segmentation — Otsu/Canny/GMM + connected components.
+
+PDF Semantic Chatbot (SentenceTransformers + FAISS) — Streamlit UI.
+
+Flask + MongoDB Student Grades — filtering, templates, queries.
+
+DES from Scratch — bitwise operations, tests.
+
+👉 Repos y detalles en mi portfolio de abajo.
+
+📫 Contact
+
+LinkedIn: jorge-galán-rodríguez-988712107 · Email: [tuemail] · GitHub: @jorgegalanr
