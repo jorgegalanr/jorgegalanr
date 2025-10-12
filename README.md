@@ -26,4 +26,4 @@ DES from Scratch — bitwise operations, tests.
 
 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/jorgegalanrodriguez · Email: jorgegalanrodriguez@gmail.com · GitHub: htpps://github.com/jorgegalanr
+LinkedIn: https://www.linkedin.com/in/jorgegalanrodriguez · Email: jorgegalanrodriguez@gmail.com · GitHub: https://github.com/jorgegalanr
