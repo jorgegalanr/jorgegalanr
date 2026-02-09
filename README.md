@@ -1,28 +1,40 @@
-👋 Hi, I'm Jorge Galán
+👋 ¡Hola, soy Jorge Galán!
+🎓 Estudiante de Ciencia de Datos e Inteligencia Artificial — Madrid, España
+💼 Más de 10 años de experiencia en finanzas (tesorería, facturación y análisis de costes)
+🤖 En formación para especializarme en Analítica Financiera e Inteligencia Artificial aplicada a la toma de decisiones de negocio.
 
-🎓 4th-year B.Sc. in Computer Science & AI (UAX) · +10 yrs in Finance🔎 Data Science & ML focused on Time Series, Computer Vision, and NLP🚀 Open to Data/ML internships from Oct 2025 (Madrid/Remote)
+💡 Lo que me motiva
+Me apasiona aplicar la analítica de datos y la IA al sector financiero: predicción de flujos de tesorería, optimización de costes bancarios, y automatización de tareas contables mediante modelos estadísticos y agentes inteligentes.
 
-🛠 Tech
+🛠️ Tecnologías y herramientas
 
-Python · Pandas · NumPy · scikit-learn · TensorFlow/Keras · XGBoost · CatBoost · Prophet · OpenCV · FAISS · SQL · MongoDB · Flask · Docker · Git
 
-🔥 Featured Projects
+Lenguajes: Python, SQL
 
-Energy Forecasting (XGBoost/CatBoost) — MAE/RMSE, seasonal analysis, deployment-ready.
 
-Wine Clustering (PCA · DBSCAN · K-Means) — unsupervised segmentation, PCA 2D plots.
+Análisis de datos: Pandas, NumPy, Matplotlib, Power BI, Excel avanzado
 
-CNN Humans vs Horses (VGG16 fine-tuning) — confusion matrix, threshold tuning.
 
-Medical Image Segmentation — Otsu/Canny/GMM + connected components.
+Machine Learning: Scikit-learn, modelos predictivos básicos
 
-PDF Semantic Chatbot (SentenceTransformers + FAISS) — Streamlit UI.
 
-Flask + MongoDB Student Grades — filtering, templates, queries.
+Finanzas: Tesorería, análisis del accrual, reporting, control de costes
 
-DES from Scratch — bitwise operations, tests.
 
-👉 Repos y detalles en mi portfolio de abajo.
+
+📂 Proyectos destacados
+
+
+financial-time-series: predicción de flujos de caja con datos simulados.
+
+
+bank-commissions-optimization: análisis de costes financieros y reducción de comisiones.
+
+
+financial-dashboard: dashboard interactivo en Power BI o Python (plotly).
+
+
+“Mi objetivo es unir la precisión del análisis financiero con el potencial de la inteligencia artificial.”
 
 📫 Contact
 
