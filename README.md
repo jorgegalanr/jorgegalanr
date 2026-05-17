@@ -1,8 +1,8 @@
 # 👋 ¡Hola, soy Jorge Galán!
 
-🎓 Estudiante de Ciencia de Datos e Inteligencia Artificial — Madrid, España  
-💼 Más de 10 años de experiencia en finanzas (tesorería, facturación y análisis de costes)  
-🤖 En formación para especializarme en Analítica Financiera e Inteligencia Artificial aplicada a la toma de decisiones de negocio.
+🎓 Estudiante de Computación e Inteligencia Artificial en la Universidad Alfonso X el Sabio (UAX) — Madrid, España  
+💼 Profesional financiero con más de 10 años de experiencia en facturación, tesorería, conciliaciones, cierres y análisis financiero-operativo  
+📊 En transición hacia Data Science Financiero, Machine Learning e IA aplicada a finanzas
 
 ---
 
