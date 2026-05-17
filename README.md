@@ -25,7 +25,7 @@ Me interesa aplicar la analítica de datos, el Machine Learning y la IA a proble
 
 ## 📂 Proyectos destacados
 
-### [`credit-risk-scoring`](https://github.com/jorgegalanr/credit-risk-scoring)
+### [credit-risk-scoring](https://github.com/jorgegalanr/credit-risk-scoring)
 
 Modelo de scoring de riesgo de crédito para estimar probabilidad de impago mediante técnicas de Machine Learning.  
 Incluye análisis exploratorio, tratamiento de datos, modelado supervisado, métricas de clasificación e interpretación desde una perspectiva financiera.
@@ -34,7 +34,7 @@ Incluye análisis exploratorio, tratamiento de datos, modelado supervisado, mét
 
 ---
 
-### [`cash-flow-forecasting`](https://github.com/jorgegalanr/cash-flow-forecasting)
+### [cash-flow-forecasting](https://github.com/jorgegalanr/cash-flow-forecasting)
 
 Proyecto de forecasting financiero orientado a la previsión de flujos de caja, ingresos o cobros mediante análisis temporal y modelos predictivos.  
 El objetivo es apoyar decisiones de tesorería y planificación financiera mediante métricas de error interpretables.
@@ -43,7 +43,7 @@ El objetivo es apoyar decisiones de tesorería y planificación financiera media
 
 ---
 
-### [`nlp-financial-sentiment`](https://github.com/jorgegalanr/nlp-financial-sentiment)
+### [nlp-financial-sentiment](https://github.com/jorgegalanr/nlp-financial-sentiment)
 
 Proyecto de NLP aplicado al análisis de sentimiento financiero.  
 Incluye procesamiento de texto, clasificación y análisis de señales textuales con posible aplicación en mercados, banca o análisis financiero.
@@ -52,7 +52,7 @@ Incluye procesamiento de texto, clasificación y análisis de señales textuales
 
 ---
 
-### [`financial-multi-agent`](https://github.com/jorgegalanr/financial-multi-agent)
+### [financial-multi-agent](https://github.com/jorgegalanr/financial-multi-agent)
 
 Prototipo de sistema multi-agente aplicado a procesos financieros mediante LLMs, RAG y orquestación de tareas.  
 El proyecto explora cómo la IA generativa puede apoyar flujos financieros, análisis documental y automatización de procesos bajo supervisión humana.
@@ -61,7 +61,7 @@ El proyecto explora cómo la IA generativa puede apoyar flujos financieros, aná
 
 ---
 
-### [`quantum-classical-forecasting-fx-crypto`](https://github.com/jorgegalanr/quantum-classical-forecasting-fx-crypto)
+### [quantum-classical-forecasting-fx-crypto](https://github.com/jorgegalanr/quantum-classical-forecasting-fx-crypto)
 
 Estudio comparativo de modelos clásicos y avanzados de forecasting aplicados a series temporales financieras de divisas y criptomonedas.  
 El objetivo es comparar enfoques de predicción y analizar su utilidad en datos financieros temporales.
@@ -70,7 +70,7 @@ El objetivo es comparar enfoques de predicción y analizar su utilidad en datos 
 
 ---
 
-### [`spanish-banks-stock-prediction`](https://github.com/jorgegalanr/spanish-banks-stock-prediction)
+### [spanish-banks-stock-prediction](https://github.com/jorgegalanr/spanish-banks-stock-prediction)
 
 Análisis y predicción de precios bursátiles de bancos españoles usando datos financieros públicos, análisis exploratorio, visualización y modelos predictivos.
 
