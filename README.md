@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Jorge Galán!
 
-🎓 Estudiante de Computación e Inteligencia Artificial en la Universidad Alfonso X el Sabio (UAX) — Madrid, España  
+🎓 Graduado de Computación e Inteligencia Artificial en la Universidad Alfonso X el Sabio (UAX) — Madrid, España  
 💼 Profesional financiero con más de 10 años de experiencia en facturación, tesorería, conciliaciones, cierres y análisis financiero-operativo  
 📊 En transición hacia Data Science Financiero, Machine Learning e IA aplicada a finanzas
 
