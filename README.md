@@ -17,7 +17,7 @@ Mi perfil conecta conocimiento financiero, análisis de datos e inteligencia art
 
 ## Áreas y herramientas
 
-| Área | Conocimientos y herramientas |
+| **Área** | **Conocimientos y herramientas** |
 |---|---|
 | Finanzas | Tesorería, cash flow, riesgo de crédito, cobros, conciliaciones, presupuesto, desviaciones y cierre |
 | Datos | Python, SQL, Pandas, NumPy, scikit-learn, Jupyter y Excel avanzado |
