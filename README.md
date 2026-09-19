@@ -54,7 +54,7 @@ Asistente financiero local con siete agentes especializados en caja, cobros, con
 
 ### [Financial Sentiment with FinBERT](https://github.com/jorgegalanr/nlp-financial-sentiment)
 
-Pipeline de NLP que normaliza noticias asociadas a un activo, distingue menciones directas de contexto y ejecuta FinBERT con dependencias probables sin necesidad de red durante las pruebas.
+Pipeline de NLP que normaliza noticias asociadas a un activo, distingue menciones directas de contexto y ejecuta FinBERT con dependencias inyectables y sin necesidad de red durante las pruebas.
 
 **Enfoque:** separación entre extracción, inferencia y presentación; el score del modelo no se presenta como certeza ni como predicción del precio.
 
