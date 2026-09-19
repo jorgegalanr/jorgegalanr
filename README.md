@@ -1,6 +1,6 @@
 # Jorge Galán Rodríguez
 
-### Financial Data & AI Analyst | Finance AI & Automation
+### Financial Data & AI Analyst | Business Analytics | Banking & Finance
 
 Madrid, España · [LinkedIn](https://www.linkedin.com/in/jorgegalanrodriguez) · [Email](mailto:jorgegalanrodriguez@gmail.com)
 
@@ -85,13 +85,15 @@ Comparativa temporal de retorno cero, ARIMA, Prophet, LSTM, una red inspirada en
 
 ## En desarrollo
 
-Actualmente estoy reforzando mi perfil hacia **Financial AI Analytics / Finance AI & Automation** mediante:
+Actualmente estoy reforzando mi perfil como **Financial Data & AI Analyst**, con orientación a **Business Analytics en banca y finanzas**, mediante:
 
-- preparación de Microsoft PL-300;
+- preparación de la certificación Microsoft PL-300;
 - modelado financiero y visualización con Power BI y DAX;
 - automatización de controles y excepciones con Power Automate;
 - construcción de un **CFO Performance Cockpit** con datos sintéticos;
 - preparación práctica para competiciones de datos e IA.
+
+La automatización y la inteligencia artificial son capacidades complementarias dentro de mi objetivo principal: transformar datos financieros en análisis, previsiones y decisiones de negocio.
 
 ## Contacto
 
