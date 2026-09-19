@@ -1,86 +1,102 @@
-# 👋 ¡Hola, soy Jorge Galán!
+# Jorge Galán Rodríguez
 
-🎓 Graduado de Computación e Inteligencia Artificial en la Universidad Alfonso X el Sabio (UAX) — Madrid, España  
-💼 Profesional financiero con más de 10 años de experiencia en facturación, tesorería, conciliaciones, cierres y análisis financiero-operativo  
-📊 Financial Data & AI Analyst | Finance AI & Automation
+### Financial Data & AI Analyst | Business Analytics | Banking & Finance
 
----
+Madrid, España · [LinkedIn](https://www.linkedin.com/in/jorgegalanrodriguez) · [Email](mailto:jorgegalanrodriguez@gmail.com)
 
-### 💡 Lo que me motiva
+Graduado en Computación e Inteligencia Artificial por la Universidad Alfonso X el Sabio y profesional financiero con más de diez años de experiencia en facturación, tesorería, conciliaciones, cierres y análisis financiero-operativo.
 
-Me interesa aplicar la analítica de datos, el Machine Learning y la IA a problemas financieros reales: estimación de riesgo de impago, previsión de cash flow, análisis de comportamiento financiero, automatización de procesos y apoyo a la toma de decisiones.
+Mi perfil conecta conocimiento financiero, análisis de datos e inteligencia artificial para convertir información en previsiones, controles y decisiones útiles. Me interesan especialmente el riesgo, el *forecasting*, la detección de anomalías, la automatización financiera y los asistentes de IA con supervisión humana.
 
----
+## Qué aporto
 
-### 🛠 Tecnologías y herramientas
+- **Criterio financiero:** entiendo el origen contable y operativo de los datos, no solo el modelo.
+- **Analítica aplicada:** traduzco problemas de riesgo, liquidez o rendimiento en métricas y procesos reproducibles.
+- **IA responsable:** comparo contra baselines, controlo fugas de información y documento las limitaciones.
+- **Orientación a negocio:** priorizo resultados interpretables, automatizables y utilizables para tomar decisiones.
 
-- **Lenguajes:** Python, SQL
-- **Análisis de datos:** Pandas, NumPy, Jupyter, Matplotlib, Excel avanzado
-- **Machine Learning:** scikit-learn, modelos de clasificación, regresión y series temporales
-- **Finanzas:** riesgo de crédito, forecasting financiero, tesorería, cobros, conciliaciones y cierre mensual
-- **IA aplicada:** LLMs, agentes, RAG básico y automatización de procesos financieros
-- **Herramientas:** Git, GitHub, VS Code
+## Áreas y herramientas
 
----
+| **Área** | **Conocimientos y herramientas** |
+|---|---|
+| Finanzas | Tesorería, cash flow, riesgo de crédito, cobros, conciliaciones, presupuesto, desviaciones y cierre |
+| Datos | Python, SQL, Pandas, NumPy, scikit-learn, Jupyter y Excel avanzado |
+| Modelado | Clasificación, regresión, series temporales, validación temporal, métricas de negocio y escenarios |
+| IA aplicada | Transformers, LLMs, RAG, agentes, LangGraph, MCP y Ollama |
+| Ingeniería | Git, GitHub Actions, pruebas automatizadas, Streamlit y pipelines reproducibles |
+| Desarrollo actual | Power BI, modelado estrella, DAX, Power Automate y preparación de la certificación PL-300 |
 
-## 📂 Proyectos destacados
+## Portfolio seleccionado
 
-### [credit-risk-scoring](https://github.com/jorgegalanr/credit-risk-scoring)
+### [Credit Risk Scoring](https://github.com/jorgegalanr/credit-risk-scoring)
 
-Modelo de scoring de riesgo de crédito para estimar probabilidad de impago mediante técnicas de Machine Learning.  
-Incluye análisis exploratorio, tratamiento de datos, modelado supervisado, métricas de clasificación e interpretación desde una perspectiva financiera.
+Pipeline de riesgo de crédito con separación de entrenamiento, validación y test, preprocesamiento sin fuga y selección del umbral mediante costes relativos.
 
-**Conceptos trabajados:** credit risk, probability of default, classification metrics, model evaluation, business interpretation.
-
----
-
-### [cash-flow-forecasting](https://github.com/jorgegalanr/cash-flow-forecasting)
-
-Proyecto de forecasting financiero orientado a la previsión de flujos de caja, ingresos o cobros mediante análisis temporal y modelos predictivos.  
-El objetivo es apoyar decisiones de tesorería y planificación financiera mediante métricas de error interpretables.
-
-**Conceptos trabajados:** time series, cash flow forecasting, MAE, RMSE, MAPE, financial planning.
+**Resultado en test:** ROC-AUC de **0,795** y recall de la clase de riesgo de **0,850**. Incluye aplicación Streamlit, artefacto reproducible y pruebas automatizadas.
 
 ---
 
-### [nlp-financial-sentiment](https://github.com/jorgegalanr/nlp-financial-sentiment)
+### [Cash Flow Forecasting](https://github.com/jorgegalanr/cash-flow-forecasting)
 
-Proyecto de NLP aplicado al análisis de sentimiento financiero.  
-Incluye procesamiento de texto, clasificación y análisis de señales textuales con posible aplicación en mercados, banca o análisis financiero.
+Previsión de tesorería a 60 días con flujos programados, gradient boosting, validación temporal y escenarios base, adverso y favorable sobre datos sintéticos.
 
-**Conceptos trabajados:** NLP, sentiment analysis, text classification, financial text data.
-
----
-
-### [financial-multi-agent](https://github.com/jorgegalanr/financial-multi-agent)
-
-Prototipo de sistema multi-agente aplicado a procesos financieros mediante LLMs, RAG y orquestación de tareas.  
-El proyecto explora cómo la IA generativa puede apoyar flujos financieros, análisis documental y automatización de procesos bajo supervisión humana.
-
-**Conceptos trabajados:** LLMs, RAG, multi-agent systems, finance automation, AI governance.
+**Resultado en test:** WAPE de **7,95 %** y reducción aproximada del **35 %** en el MAE del saldo frente al baseline estacional.
 
 ---
 
-### [quantum-classical-forecasting-fx-crypto](https://github.com/jorgegalanr/quantum-classical-forecasting-fx-crypto)
+### [Financial Multi-Agent](https://github.com/jorgegalanr/financial-multi-agent)
 
-Estudio comparativo de modelos clásicos y avanzados de forecasting aplicados a series temporales financieras de divisas y criptomonedas.  
-El objetivo es comparar enfoques de predicción y analizar su utilidad en datos financieros temporales.
+Asistente financiero local con siete agentes especializados en caja, cobros, control, FP&A, fiscalidad y activos. Combina LangGraph, herramientas financieras, RAG BM25, servidores MCP y un LLM local mediante Ollama.
 
-**Conceptos trabajados:** forecasting, financial time series, ARIMA, Prophet, LSTM, model comparison.
+**Enfoque:** datos sintéticos reproducibles, enrutamiento comprobable y respuestas financieras sujetas a supervisión humana.
+
+---
+
+### [Financial Sentiment with FinBERT](https://github.com/jorgegalanr/nlp-financial-sentiment)
+
+Pipeline de NLP que normaliza noticias asociadas a un activo, distingue menciones directas de contexto y ejecuta FinBERT con dependencias inyectables y sin necesidad de red durante las pruebas.
+
+**Enfoque:** separación entre extracción, inferencia y presentación; el score del modelo no se presenta como certeza ni como predicción del precio.
 
 ---
 
-### [spanish-banks-stock-prediction](https://github.com/jorgegalanr/spanish-banks-stock-prediction)
+### [Spanish Banks Quantitative Analysis](https://github.com/jorgegalanr/spanish-banks-stock-prediction)
 
-Análisis y predicción de precios bursátiles de bancos españoles usando datos financieros públicos, análisis exploratorio, visualización y modelos predictivos.
+Backtesting causal de un ranking de bancos españoles basado en momentum, tendencia, volatilidad y drawdown. Incorpora retraso de señales, costes de rotación y comparación con una cartera equiponderada.
 
-**Conceptos trabajados:** market data, stock prediction, exploratory analysis, financial visualization.
+**Hallazgo:** la estrategia técnica no supera el baseline en la muestra reproducible, mostrando la importancia de validar las narrativas de inversión con resultados fuera de muestra.
 
 ---
-Mi objetivo es construir soluciones de Data Science aplicadas a finanzas que combinen criterio financiero, análisis de datos, modelos predictivos e IA aplicada a procesos de negocio.
----
-### 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/jorgegalanrodriguez  
-- Email: jorgegalanrodriguez@gmail.com  
-- GitHub: https://github.com/jorgegalanr
+### [Classical, Deep Learning & Quantum Forecasting](https://github.com/jorgegalanr/quantum-classical-forecasting-fx-crypto)
+
+Comparativa temporal de retorno cero, ARIMA, Prophet, LSTM, una red inspirada en TFT y una QNN híbrida sobre Forex y criptomonedas.
+
+**Hallazgo:** el retorno cero obtiene el menor MAE en tres de cinco activos y la complejidad adicional no produce una mejora consistente. La QNN necesitó **558 minutos** sin conseguir el mejor resultado en ningún activo.
+
+## Cómo trabajo
+
+1. Defino el problema y una métrica vinculada a la decisión.
+2. Construyo un baseline sencillo antes de aumentar la complejidad.
+3. Separo correctamente entrenamiento, validación y test.
+4. Evito fugas de información y versiono los resultados.
+5. Documento supuestos, limitaciones y riesgos de uso.
+6. Automatizo pruebas y ejecuciones cuando el alcance del proyecto lo permite.
+
+## En desarrollo
+
+Actualmente estoy reforzando mi perfil como **Financial Data & AI Analyst**, con orientación a **Business Analytics en banca y finanzas**, mediante:
+
+- preparación de la certificación Microsoft PL-300;
+- modelado financiero y visualización con Power BI y DAX;
+- automatización de controles y excepciones con Power Automate;
+- construcción de un **CFO Performance Cockpit** con datos sintéticos;
+- preparación práctica para competiciones de datos e IA.
+
+La automatización y la inteligencia artificial son capacidades complementarias dentro de mi objetivo principal: transformar datos financieros en análisis, previsiones y decisiones de negocio.
+
+## Contacto
+
+Estoy abierto a oportunidades relacionadas con analítica financiera, BI financiero, Data Science aplicado a finanzas e implantación de soluciones de IA y automatización.
+
+[LinkedIn](https://www.linkedin.com/in/jorgegalanrodriguez) · [GitHub](https://github.com/jorgegalanr) · [Email](mailto:jorgegalanrodriguez@gmail.com)
