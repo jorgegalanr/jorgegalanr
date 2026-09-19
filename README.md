@@ -1,6 +1,6 @@
 # Jorge Galán Rodríguez
 
-### Financial Data & AI Analyst | Business Analytics | Banking & Finance
+### Financial Data Scientist & AI Analyst | Banking, Risk & Treasury Analytics 
 
 Madrid, España · [LinkedIn](https://www.linkedin.com/in/jorgegalanrodriguez) · [Email](mailto:jorgegalanrodriguez@gmail.com)
 
